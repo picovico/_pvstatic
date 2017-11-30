@@ -1,8 +1,11 @@
 {
-				"active": [
-								{"image": "img/promotions/blackfriday/pricingpage.png", "url": "https://app.picovico.com/upgrade/web-pro?coupon=BLACKFRIDAY"},
-								{"title": "Shop at the Picovico Official Merchandise store ", "body": "- Get Free Shipping inside US", "url": "https://teespring.com/stores/picovico?pr=PICOVICO&utm_source=picovico&utm_medium=dashboard&utm_campaign=us-free-shipping", "urltarget": "_blank"}
-				],
-				"inactive": [
-				]
+	"active": [
+		{
+			"image": "img/promotions/teespring/store-discount.jpg",
+			"url": "https://teespring.com/picovico-yeti-one?pr=15000LIKES"
+		}
+	],
+	"inactive": [
+
+	]
 }

@@ -1,16 +1,11 @@
 {
 	"active": [
 		{
-			"image": "img/promotions/blackfriday/Createpage.jpg",
-			"url": "https://app.picovico.com/upgrade/web-pro?coupon=BLACKFRIDAY"
-		},
-		{
-			"url": "/story?machine_name=love_thanksfamily",
-			"title": "Someone was thankful to you ? Just SAY it !! ",
-			"body": "with our exclusive thank you video style !!!"
+			"image": "img/promotions/teespring/store-discount.jpg",
+			"url": "https://teespring.com/picovico-yeti-one?pr=15000LIKES"
 		}
 	],
 	"inactive": [
-		
+
 	]
 }

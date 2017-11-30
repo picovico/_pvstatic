@@ -1,11 +1,7 @@
 {
-				"active": [
-								{"image": "img/promotions/blackfriday/pricingpage.png", "url": "https://app.picovico.com/upgrade/web-pro?coupon=BLACKFRIDAY"}
-				],
+	"active": [
+	],
 	"inactive": [
-		{
-			"image": "img/promotions/black-friday-pricing-banner.png",
-			"url": "https://app.picovico.com/upgrade/web-pro?coupon=BLACKFRIDAY"
-		}
+
 	]
 }
