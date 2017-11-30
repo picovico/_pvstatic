@@ -1,0 +1,100 @@
+{
+    "property": [
+      {
+        "name": "price",
+        "type": "number",
+        "required": true
+      },
+      {
+        "name": "name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "currency",
+        "type": "text"
+      },
+      {
+        "name": "type",
+        "type": "text"
+      },
+      {
+        "name": "address",
+        "type": "text"
+      },
+      {
+        "name": "info",
+        "type": "text"
+      },
+      {
+        "name": "area",
+        "type": "number"
+      },
+      {
+        "name": "negotiable",
+        "type": "select",
+        "value": [1, 0]
+      },
+      {
+        "name": "amenity_kitchen",
+        "type": "number"
+      },
+      {
+        "name": "amenity_bedroom",
+        "type": "number"
+      },
+      {
+        "name": "amenity_bathroom",
+        "type": "number"
+      },
+      {
+        "name": "amenity_pool",
+        "type": "select",
+        "value": [1, 0]
+      }
+    ],
+    "realtor": [
+      {
+        "name": "name",
+        "type": "text"
+      },
+      {
+        "name": "logo",
+        "type": "text"
+      },
+      {
+        "name": "address",
+        "type": "text"
+      },
+      {
+        "name": "website",
+        "type": "url"
+      },
+      {
+        "name": "email",
+        "type": "email"
+      }
+    ],
+    "agent": [
+      {
+        "name": "email",
+        "type": "email"
+      },
+      {
+        "name": "name",
+        "type": "text"
+      },
+      {
+        "name": "contact",
+        "type": "text"
+      },
+      {
+        "name": "pic",
+        "type": "text"
+      },
+      {
+        "name": "address",
+        "type": "text"
+      }
+    ]
+}

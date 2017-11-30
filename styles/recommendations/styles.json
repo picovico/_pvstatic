@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "fbcover": {
+            "len_sec": [
+                20,
+                90
+            ],
+            "output": "820x312",
+            "size": [
+                {
+                    "name": "FBCover exact",
+                    "value": "820:312"
+                },
+                {
+                    "name": "FBCover scroll",
+                    "value": "820:462"
+                }
+            ]
+        }
+    },
+    "recommendations": [
+        {
+            "category": "Personal",
+            "subcategory": [
+                {
+                    "category": "Birthday",
+                    "styles": [
+                        "bdayalbum",
+                        "birthday",
+                        "love_birthdaysoulmate",
+                        "carol_birthday"
+                    ]
+                },
+                {
+                    "category": "Memories",
+                    "styles": [
+                        "newyear",
+                        "imagegrid",
+                        "imagegrid_bricks",
+                        "bokeh_dark",
+                        "bokeh"
+                    ]
+                },
+                {
+                    "category": "Travel",
+                    "styles": [
+                        "lines",
+                        "coolvibes",
+                        "blinds"
+                    ]
+                },
+                {
+                    "category": "Anniversary",
+                    "styles": [
+                        "love_soulmate",
+                        "love_valentine",
+                        "vanilla_frameless",
+                        "bokeh_dark",
+                        "bokeh",
+                        "newyear"
+                    ]
+                },
+                {
+                    "category": "Romance",
+                    "styles": [
+                        "love_soulmate",
+                        "love_valentine",
+                        "focus",
+                        "circle"
+                    ]
+                },
+                {
+                    "category": "Wedding",
+                    "styles": [
+                        "wedalbum_default",
+                        "wedalbum_red",
+                        "bokeh_dark",
+                        "bokeh",
+                        "focus",
+                        "circle",
+                        "blinds",
+                        "love_soulmate",
+                        "love_valentine"
+                    ]
+                },
+                {
+                    "category": "Party",
+                    "styles": [
+                        "party",
+                        "coolvibes"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Businesss",
+            "subcategory": [
+                {
+                    "category": "Real Estate",
+                    "styles": [
+                        "vanilla_frameless",
+                        "vanilla",
+                        "blinds",
+                        "coolvibes",
+                        "focus"
+                    ]
+                },
+                {
+                    "category": "Digital Marketing",
+                    "styles": [
+                        "vanilla_frameless",
+                        "vanilla",
+                        "blinds"
+                    ]
+                },
+                {
+                    "category": "Non-Profit",
+                    "styles": [
+                        "vanilla_frameless",
+                        "blinds",
+                        "vanilla",
+                        "focus",
+                        "coolvibes"
+                    ]
+                },
+                {
+                    "category": "Education",
+                    "styles": [
+                        "newyear",
+                        "coolvibes",
+                        "imagegrid",
+                        "imagegrid_bricks"
+                    ]
+                },
+                {
+                    "category": "Others",
+                    "styles": [
+                        "vanilla_frameless",
+                        "blinds",
+                        "vanilla",
+                        "imagegrid",
+                        "imagegrid_bricks"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Photography",
+            "subcategory": [
+                {
+                    "category": "Newborn",
+                    "styles": [
+                        "vanilla_frameless",
+                        "vanilla",
+                        "coolvibes",
+                        "blinds",
+                        "circle",
+                        "focus"
+                    ]
+                },
+                {
+                    "category": "Events",
+                    "styles": [
+                        "vanilla_frameless",
+                        "vanilla",
+                        "blinds",
+                        "circle",
+                        "focus",
+                        "imagegrid",
+                        "imagegrid_bricks"
+                    ]
+                },
+                {
+                    "category": "Family",
+                    "styles": [
+                        "coolvibes",
+                        "blinds",
+                        "circle",
+                        "focus",
+                        "vanilla_frameless"
+                    ]
+                },
+                {
+                    "category": "Wedding",
+                    "styles": [
+                        "vanilla_frameless",
+                        "vanilla",
+                        "circle",
+                        "focus",
+                        "love_soulmate",
+                        "imagegrid",
+                        "imagegrid_bricks",
+                        "wedalbum_default"
+                    ]
+                }
+            ]
+        }
+    ]
+}
