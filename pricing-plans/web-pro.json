@@ -3,18 +3,16 @@
     {
       "img": "",
       "title": "",
-      "detail": ""
+      "text": ""
     }
   ],
   "banner": "",
-  "head": "",
+  "text": "",
   "logo": "",
-  "remarks": ""
-  "offers": [
-    {
-      "lifetime": {
-        "usd": 10000
-      }
+  "info": "",
+  "offers": {
+    "lifetime": {
+      "percent_off": 90
     }
-  ]
+  }
 }
