@@ -3,11 +3,12 @@
   padding-bottom: 20px;
 }
 .page-upper-header {
-  background: url('../img/tis/page-upper-header.png') repeat-x center;
-  height:200px;
+  background: url('../img/tis/Login_Header.png') repeat-x center;
+  height:190px;
 }
 .page-upper-header[data-login=true] {
-  background: url('../img/tis/page-upper-header-app.png') repeat-x center bottom;
+  background: url('../img/tis/Header.png') repeat-x center bottom;
+  height:235px !important;
 }
 .lower-footer {
   background: url('../img/tis/lower-footer.png') repeat-x center bottom;
@@ -23,5 +24,6 @@
   margin-top: -50px !important;
 }
 body{
-  background: transparent url('../img/tis/tis-bg-body.png') repeat center;
+  background: transparent url('../img/tis/Body_BG.png?v=tis') repeat center top;
+  background-attachment: fixed;
 }
