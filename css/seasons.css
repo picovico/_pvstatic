@@ -1,22 +1,27 @@
 .pv-background{
   background-image: url('../img/tis/tis-bg.png');
+  padding-bottom: 20px;
 }
-/*
-https://picovico.github.io/_pvstatic/img/login-bg/christmas-02.jpg
-https://picovico.github.io/_pvstatic/img/login-bg/snowy-winter-01.jpg
-https://picovico.github.io/_pvstatic/img/login-bg/snowy-winter-02.jpg
-*/
-
 .page-upper-header {
-  content: url('../img/tis/page-upper-header.png');
+  background: url('../img/tis/page-upper-header.png') repeat-x center;
+  height:200px;
 }
 .page-upper-header[data-login=true] {
-  content: url('../img/tis/page-upper-header-app.png');
+  background: url('../img/tis/page-upper-header-app.png') repeat-x center bottom;
 }
 .lower-footer {
-  margin-top: 4em !important;
-  content: url('../img/tis/lower-footer.png');
+  background: url('../img/tis/lower-footer.png') repeat-x center bottom;
+	/*position:fixed !important;*/
+	width:100%;
+  height: 175px !important;
+  padding-top: 300px;
 }
 .lower-footer[data-type="register"] {
-  margin-top: 0em !important;
+  padding-top: 200px !important;
+}
+.join-text{
+  margin-top: -50px !important;
+}
+body{
+  background: transparent url('../img/tis/tis-bg-body.png') repeat center;
 }
