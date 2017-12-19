@@ -3,7 +3,7 @@
   position: relative;
 }
 .page-upper-header {
-  background: url('../img/tis/Login_Header.png') repeat-x center;
+  background: url('../img/tis/Login_Header.jpg') repeat-x center;
   height:190px;
 }
 .page-upper-header[data-login=true] {
