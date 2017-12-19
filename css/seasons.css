@@ -5,6 +5,7 @@
 .page-upper-header {
   background: url('../img/tis/Login_Header_withbtn.jpg') repeat-x center;
   height:190px;
+	--link: "/upgrade/web-pro";
 }
 .page-upper-header[data-login=true] {
   background: url('../img/tis/Header_withbtn.png') repeat-x center bottom;
