@@ -1,8 +1,26 @@
 .pv-background{
-  background-image: url('https://picovico.github.io/_pvstatic/img/login-bg/snowy-winter-01.jpg');
+  background-image: url('../img/tis/tis-bg.png');
+  position: relative;
 }
-/*
-https://picovico.github.io/_pvstatic/img/login-bg/christmas-02.jpg
-https://picovico.github.io/_pvstatic/img/login-bg/snowy-winter-01.jpg
-https://picovico.github.io/_pvstatic/img/login-bg/snowy-winter-02.jpg
-*/
+.page-upper-header {
+  background: url('../img/tis/Login_Header.png') repeat-x center;
+  height:190px;
+}
+.page-upper-header[data-login=true] {
+  background: url('../img/tis/Header.png') repeat-x center bottom;
+  height:235px !important;
+}
+.lower-footer {
+  background: url('../img/tis/lower-footer-trimmed.png') repeat-x center bottom;
+	width:100%;
+  height: 168px !important;
+  position: absolute;
+  bottom: 0px;  
+}
+.join-text{
+  margin-top: -50px !important;
+}
+body{
+  background: transparent url('../img/tis/Body_BG.png?v=tis') repeat center top;
+  background-attachment: fixed;
+}
