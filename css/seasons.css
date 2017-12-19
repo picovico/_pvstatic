@@ -9,6 +9,7 @@
 .page-upper-header[data-login=true] {
   background: url('../img/tis/Header.png') repeat-x center bottom;
   height:235px !important;
+background-position-x: 100px;
 }
 .lower-footer {
   background: url('../img/tis/lower-footer-trimmed.png') repeat-x center bottom;
