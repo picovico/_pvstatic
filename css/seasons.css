@@ -33,5 +33,5 @@ body{
 				background: #113544 !important;
 }
 .plan-duration.offer{
-  background: url('../img/offer_price_bg.png') no-repeat top right !important;
+  background:white url('../img/offer_price_bg.png') no-repeat top center !important;
 }
