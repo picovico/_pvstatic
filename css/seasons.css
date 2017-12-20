@@ -10,11 +10,14 @@
 .page-upper-header[data-login=true] {
   background: url('../img/tis/Header_withbtn.png') repeat-x center bottom;
   height:235px !important;
-background-position-x: 100px;
+  background-position-x: 100px;
+}
+.page-upper-header[data-page="play"] {
+  background-position-x: 0px;
 }
 .lower-footer {
   background: url('../img/tis/lower-footer-trimmed.png') repeat-x center bottom;
-	width:100%;
+  width:100%;
   height: 168px !important;
   position: absolute;
   bottom: 0px;  
