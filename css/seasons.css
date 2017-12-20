@@ -29,3 +29,6 @@ body{
   background: transparent url('../img/tis/Body_BG.png?v=tis') repeat center top;
   background-attachment: fixed;
 }
+.pv-menu-bg{
+				background: #113544 !important;
+}
