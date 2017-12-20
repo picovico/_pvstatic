@@ -3,7 +3,8 @@
 		{
 			"image": "img/promotions/teespring/store-discount.jpg",
 			"url": "https://teespring.com/tis-the-season-picovico?pr=15000LIKES",
-			"urltarget": "_blank"
+			"urltarget": "_blank",
+			"caption": "Picovico Store"
 		}
 	],
 	"inactive": [
