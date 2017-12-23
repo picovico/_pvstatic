@@ -1,7 +1,7 @@
 {
 	"active": [
 		{
-			"image": "img/promotions/tis/OFFER.jpg",
+			"image": "img/promotions/tis/OFFER.jpg?v100",
 			"url": "/upgrade/web-pro?period=lifetime",
 			"urltarget": "_blank"
 		}
