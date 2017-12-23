@@ -1,7 +1,7 @@
 {
 	"active": [
 		{
-			"image": "img/tis/OFFER.jpg",
+			"image": "https://picovico.github.io/_pvstatic/img/tis/OFFER.jpg",
 			"url": "/upgrade/web-pro?period=lifetime",
 			"urltarget": "_blank"
 		}
