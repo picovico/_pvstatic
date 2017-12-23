@@ -1,14 +1,13 @@
 {
 	"active": [
 		{
+			"image": "img/promotions/tis/OFFER.jpg",
+			"url": "/upgrade/web-pro?period=lifetime",
+			"urltarget": "_blank"
 		}
 	],
 	"inactive": [
-{
-				"image": "img/promotions/teespring/store-discount.jpg",
-			"url": "https://teespring.com/tis-the-season-picovico?pr=15000LIKES",
-"urltarget": "_blank"
-
-}
+		{
+		}
 	]
 }
