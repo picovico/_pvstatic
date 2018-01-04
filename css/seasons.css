@@ -14,6 +14,7 @@
 }
 .page-upper-header[data-page="play"] {
   background-position-x: 0px;
+display:none;
 }
 .lower-footer {
   background: url('../img/tis/lower-footer-trimmed.png') repeat-x center bottom;
