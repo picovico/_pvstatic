@@ -1,14 +1,14 @@
 .pv-background{
-  background-image: url('../img/tis/tis-bg-new.jpg');
+  background-image: url('../img/tis/ext/login_bg.jpg');
   position: relative;
 }
 .page-upper-header {
-  background: url('../img/tis/Login_Header_withbtn.jpg') repeat-x center;
+  background: url('../img/tis/ext/header.jpg') repeat-x center;
   height:190px;
   --link: upgrade/web-pro?period=lifetime;
 }
 .page-upper-header[data-login=true] {
-  background: url('../img/tis/Header_withbtn.png') repeat-x center bottom;
+  background: url('../img/tis/ext/header_inside.png') repeat-x center bottom;
   height:235px !important;
   background-position-x: 100px;
 }
@@ -27,8 +27,8 @@ display:none;
   margin-top: -50px !important;
 }
 body{
-  background: transparent url('../img/tis/Body_BG.png?v=tis') repeat center top;
-  background-attachment: fixed;
+  /*background: transparent url('../img/tis/tis-bg-body.png?v=tis') repeat center top;*/
+  /*background-attachment: fixed;*/
 }
 .pv-menu-bg{
 				background: #113544 !important;
