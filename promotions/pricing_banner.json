@@ -1,9 +1,9 @@
 {
 	"active": [
 		{
-			"image": "img/promotions/tis/OFFER3.png",
-			"url": "/upgrade/web-pro?period=lifetime",
-			"urltarget": "_blank"
+			// "image": "img/promotions/tis/OFFER3.png",
+			// "url": "/upgrade/web-pro?period=lifetime",
+			// "urltarget": "_blank"
 		}
 	],
 	"inactive": [
