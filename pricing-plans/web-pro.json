@@ -13,56 +13,6 @@
       "text": ""
     }
   ],
-  "period_data": [
-    {
-      "day_1": {
-        "header_info": "Most flexible",
-        "info_text": "Cancel anytime. 24 Hours. All features.",
-        "videos": "10 Videos"
-      }
-    },
-    {
-      "month_1": {
-        "header_info": "All-time Best Seller",
-        "info_text": "30 days full-fledged plan. Easy Cancellation.",
-        "videos": "20 Videos"
-      }
-    },
-    {
-      "year_1": {
-        "header_info": "Best Value for Money",
-        "info_text": "Annual Subscription. 1000+ videos. Save 50%",
-        "videos": "30 Videos/MO"
-      }
-    },
-    {
-      "lifetime": {
-        "header_info": "New Hot",
-        "info_text": "One time payment for a lifelong service. Never get billed again !",
-        "videos": "30 Videos/MO"
-      }
-    },
-  ],
-  "testimonials": [
-    {
-      "img": "http://picovico.com/wp-content/uploads/image_carousel_thumbs/Anthony-Renetta-Fierro-mss8jgkyd3p8yilqmckehiiuytwl3ya3my6krke79g.png",
-      "message": "Love it. I’ve used it for fun times with family, anniversaries ,loved ones that have passed etc. A fun fast way to make memories memorable!",
-      "user": "Anthony Renetta Fierro",
-      "address": ""
-    },
-    {
-      "img": "http://picovico.com/wp-content/uploads/image_carousel_thumbs/Knowlton-180x180-mss8p7dg4nkbwq9d2tybq2c9nllc5d31rdpecfvl8k.jpg",
-      "message": "Picovico has been a wonderful online tool in my classroom. I have been able to utilize it in my lessons as a review tool. We recently used picovico to turn our state research project from just a paper and pencil project to something really amazing!",
-      "user": "Jana Knowlton",
-      "address": "Teacher, Gus Birdwell Elementary, Spearman, TX"
-    },
-    {
-      "img": "http://picovico.com/wp-content/uploads/image_carousel_thumbs/Huub-bt-Pad-Bosch-Founder-180x180-mss8tgl52ne2h62t866iihoehem600zaog1jkjkf2c.jpg",
-      "message": "TibiMedia is a proud user of the provided API which makes it easier to implement in our platform. Why we choose Picovico? These guys are flexible and easy to contact. Try it!",
-      "user": "Huub bt Pad Bosch",
-      "address": "Founder, Tibimedia, Netherlands",
-    }
-  ],
   "banner": "",
   "text": "",
   "logo": "",
