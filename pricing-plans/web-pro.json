@@ -24,8 +24,23 @@
   "extra_features": [
     {
       "img": "",
-      "title": "",
-      "text": ""
+      "title": "Multiple Music",
+      "text": "Add up to 5 music per video"
+    },
+    {
+      "img": "",
+      "title": "Custom Logo",
+      "text": "Insert your logo to videos"
+    },
+    {
+      "img": "",
+      "title": "100 Videos/ MO",
+      "text": "Enjoy ample number of videos"
+    },
+    {
+      "img": "",
+      "title": "Longer Videos",
+      "text": "Create long length videos of up to 15mins"
     }
   ],
   "banner": "",
