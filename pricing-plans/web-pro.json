@@ -1,44 +1,44 @@
 {
   "features": [
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/style.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/style.png",
       "title": "All Styles",
       "text": "Get access to all available styles"
     },
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/fullhs.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/fullhs.png",
       "title": "Full HD*",
       "text": "Create high definition videos - 1080p (max)"
     },
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/watermark.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark.png",
       "title": "No Watermark",
       "text": "Free your video from any watermark"
     },
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/video.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/video.png",
       "title": "Video Clips",
       "text": "Add videos in addition to images and text slides"
     }
   ],
   "extra_features": [
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/music.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/music.png",
       "title": "Multiple Music",
       "text": "Add up to 5 music per video"
     },
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/custom-logo.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/custom-logo.png",
       "title": "Custom Logo",
       "text": "Insert your logo to videos"
     },
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/ample-videos.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/ample-videos.png",
       "title": "100 Videos/ MO",
       "text": "Enjoy ample number of videos"
     },
     {
-      "img": "https://github.com/picovico/_pvstatic/tree/master/img/pricing/icons/long-video.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/long-video.png",
       "title": "Longer Videos",
       "text": "Create long length videos of up to 15mins"
     }
