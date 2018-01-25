@@ -2,8 +2,23 @@
   "features": [
     {
       "img": "",
-      "title": "",
-      "text": ""
+      "title": "All Styles",
+      "text": "Get access to all available styles"
+    },
+    {
+      "img": "",
+      "title": "Full HD*",
+      "text": "Create high definition videos - 1080p (max)"
+    },
+    {
+      "img": "",
+      "title": "No Watermark",
+      "text": "Free your video from any watermark"
+    },
+    {
+      "img": "",
+      "title": "Video Clips",
+      "text": "Add videos in addition to images and text slides"
     }
   ],
   "extra_features": [
