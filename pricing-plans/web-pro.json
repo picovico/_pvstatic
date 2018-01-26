@@ -74,19 +74,30 @@
       "videos": "5 Videos"
     },
     "month_1": {
-      "no_buy": ["day_1"],
+      "no_buy": [
+        "day_1"
+      ],
       "header_info": "All-time Best Seller",
-      "info_text": "30 days full-fledged plan. Easy Cancellation.",
+      "info_text": "30 days full-fledged plan. Easy Cancellation."
     },
     "year_1": {
-      "no_buy": ["day_1", "month_1", "month_3"],
+      "no_buy": [
+        "day_1",
+        "month_1",
+        "month_3"
+      ],
       "header_info": "Best Value for Money",
-      "info_text": "Annual Subscription. 1000+ videos. Save 50%",
+      "info_text": "Annual Subscription. 1000+ videos. Save 50%"
     },
     "lifetime": {
-      "no_buy": ["day_1", "month_1", "month_3", "year_1"],
+      "no_buy": [
+        "day_1",
+        "month_1",
+        "month_3",
+        "year_1"
+      ],
       "header_info": "New Hot",
-      "info_text": "One time payment for a lifelong service. Never get billed again !",
+      "info_text": "One time payment for a lifelong service. Never get billed again !"
     }
   }
 }
