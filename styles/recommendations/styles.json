@@ -26,6 +26,8 @@
                     "category": "Birthday",
                     "styles": [
                         "bdayalbum",
+                        "newborn_boy",
+                        "newborn_girl",
                         "birthday",
                         "love_birthdaysoulmate",
                         "carol_birthday"
@@ -98,6 +100,7 @@
                 {
                     "category": "Real Estate",
                     "styles": [
+                        "vanilla_spark",
                         "vanilla_frameless",
                         "vanilla",
                         "blinds",
@@ -150,6 +153,8 @@
                 {
                     "category": "Newborn",
                     "styles": [
+                        "newborn_boy",
+                        "newborn_girl",
                         "vanilla_frameless",
                         "vanilla",
                         "coolvibes",
