@@ -7,7 +7,7 @@
     },
     {
       "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/fullhs.png",
-      "title": "Full HD*",
+      "title": "Full HD",
       "text": "Create high definition videos - 1080p (max)"
     },
     {
@@ -87,7 +87,7 @@
         "month_3"
       ],
       "header_info": "Best Value for Money",
-      "info_text": "Annual Subscription. 1000+ videos. Save 50%"
+      "info_text": "Annual Subscription. Save Nearly 50%"
     },
     "lifetime": {
       "no_buy": [
@@ -97,7 +97,7 @@
         "year_1"
       ],
       "header_info": "New Hot",
-      "info_text": "One time payment for a lifelong service. Never get billed again !"
+      "info_text": "One time payment. Never get billed again !"
     }
   }
 }
