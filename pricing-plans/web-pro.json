@@ -33,7 +33,7 @@
       "text": "Insert your logo to videos"
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/ample-videos.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/cta.png",
       "title": "CTA Button",
       "text": "Add your own custom call-to-action"
     },
@@ -87,7 +87,7 @@
         "month_3"
       ],
       "header_info": "Best Value for Money",
-      "info_text": "Annual Subscription. Save Nearly 50%"
+      "info_text": "Annual Subscription. <strong>Save Nearly 50%</strong>"
     },
     "lifetime": {
       "no_buy": [
