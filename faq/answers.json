@@ -1,9 +1,46 @@
 {
-"sections": [
-{
-"name": "A",
-"answers: [
-]
-}
-]
+    "sections": [
+        {
+            "name": "Subscription",
+            "answers": [
+                {
+                    "q": "How do I cancel my Picovico subscription?",
+                    "a": "You can cancel your subscription anytime by logging into your Picovico account and disabling the auto-renewal. The change will become effective at the end of your subscription period."
+                },
+                {
+                    "q": "How do I turn-off the Auto Renewal?",
+                    "a": "Just go to the “Account” page on your Picovico Profile. There should be a toggle switch next to “Automatic Renewal”. Click on it to turn auto-renewal off. Your card will not be charged again upon the end of your current subscription term unless you manually activate “Automatic Renewal”."
+                },
+                {
+                    "q": "What happens at the end of my subscription? How do I renew?",
+                    "a": "The plan you have selected will auto-renew at the end of each term. The duration of your subscription period will be same as the term of original subscription."
+                },
+                {
+                    "q": "Do you save credit card details?",
+                    "a": "No. Absolutely not. Your credit card details are not stored on our servers. The information goes directly from your computer to our payment service provider."
+                },
+                {"q": "Can I upgrade/downgrade to any higher/lower plans during my active subscription period?", "a": "Yes, you can upgrade to higher plan anytime, however downgrading to lower plan isn't possible. In order to upgrade your current plan, simply login to your Picovico account and check the 'Pricing' page, you will have access to change your subscription period. The credits and pricing will be adjusted accordingly via our payment service provider and the calculation will be visible on your screen. However, once your chosen subscription is over, you can start with any plan."},
+                {
+                    "q": "Will I get a rebate of my remaining credits if I change my subscription-type during any offer?",
+                    "a": "No. You will not get any refunds when you switch your current plan to some discounted plans. However, you needn’t pay any extra if any higher plan is being offered at  a price lower than the plan you are currently at."
+                }
+            ]
+        },
+        {
+            "name": "Lifetime Plan",
+            "answers": [
+                {"q": "What is a lifetime plan?", "a": ""},
+                {"q": "What do I get with a lifetime plan?", "a": "First, you get a never expiring service by just paying once. Beside that, you will have access to every available feature in Picovico that includes: HD quality, watermark free videos, professionally designed styles, audio overlay, video-clips, custom logo, multiple music per video, CTA button and more."},
+                {"q": "Can I change a prepaid plan to a lifetime plan?", "a": "Yes, you can change your current plan to a lifetime plan from your account settings page. The credits and pricing will be adjusted automatically via our payment service provider."},
+                {"q": "Does the special nonprofit discount apply with a lifetime plan?", "a": "Yes, we do provide special discount for nonprofit purpose and it is also applicable for the lifetime plan. Contact us at support@picovio.com with your details to claim for a nonprofit discount. "}
+            ]
+        },
+        {
+            "name": "REFUND POLICY",
+            "paragraphs": [
+                "Picovico is NOT LIABLE TO provide any kind of refunds on fees or charges related to your Picovico account/subscription.",
+                "You will have agreed to our Terms of Service upon purchasing a plan, which includes our refund policy. If you have any queries regarding this, please contact us at support@picovico.com."
+            ]
+        }
+    ]
 }
