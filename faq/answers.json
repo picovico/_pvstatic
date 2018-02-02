@@ -29,7 +29,7 @@
         {
             "name": "Lifetime Plan",
             "answers": [
-                {"q": "What is a lifetime plan?", "a": "Lifetime plan is a never expiring plan that gives you the opportunity to access video-making at a cost of few monthly subscriptions. Pay one-time small fee and never get billed again."},
+                {"q": "What is a lifetime plan?", "a": "Lifetime plan is a <strong>never expiring plan</strong> that gives you the opportunity to access video-making at a cost of few monthly subscriptions. Pay one-time small fee and never get billed again."},
                 {"q": "What do I get with a lifetime plan?", "a": "First, you get a never expiring service by just paying once. Beside that, you will have access to every available feature in Picovico that includes: HD quality, watermark free videos, professionally designed styles, audio overlay, video-clips, custom logo, multiple music per video, CTA button and more."},
                 {"q": "Can I change a prepaid plan to a lifetime plan?", "a": "Yes, you can change your current plan to a lifetime plan from your account settings page. The credits and pricing will be adjusted automatically via our payment service provider."},
                 {"q": "Does the special nonprofit discount apply with a lifetime plan?", "a": "Yes, we do provide special discount for nonprofit purpose and it is also applicable for the lifetime plan. Contact us at support@picovio.com with your details to claim for a nonprofit discount. "}
