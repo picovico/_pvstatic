@@ -71,14 +71,16 @@
     "day_1": {
       "header_info": "Most flexible",
       "info_text": "24 Hours. All Styles. All features.",
-      "videos": "5 Videos"
+      "videos": "5 Videos",
+      "color": "#ffe05f"
     },
     "month_1": {
       "no_buy": [
         "day_1"
       ],
       "header_info": "All-time Best Seller",
-      "info_text": "30 days full-fledged plan. Easy Cancellation."
+      "info_text": "30 days full-fledged plan. Easy Cancellation.",
+      "color": "#ffd939"
     },
     "year_1": {
       "no_buy": [
@@ -87,7 +89,8 @@
         "month_3"
       ],
       "header_info": "Best Value for Money",
-      "info_text": "Annual Subscription. Save Nearly 50%"
+      "info_text": "Annual Subscription. Save Nearly 50%",
+      "color": "#f7cd1e"
     },
     "lifetime": {
       "no_buy": [
@@ -97,7 +100,8 @@
         "year_1"
       ],
       "header_info": "New Hot!",
-      "info_text": "One time payment. Never get billed again !"
+      "info_text": "One time payment. Never get billed again !",
+      "color": "#d3d305"
     }
   }
 }
