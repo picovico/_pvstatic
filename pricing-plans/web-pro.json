@@ -77,6 +77,7 @@
       "header_info": "Most flexible",
       "info_text": "24 Hours. All Styles. All features.",
       "videos": "5 Videos",
+      "title": "Daily",
       "color": "#ffe05f"
     },
     "day_7": {
@@ -86,6 +87,7 @@
       "header_info": "Trending Now!",
       "info_text": "7 days package. Greater access, more videos!",
       "color": "#ffd939",
+      "title": "Weekly",
       "videos": "20 Videos"
     },
     "month_1": {
@@ -96,6 +98,7 @@
       "header_info": "All-time Best Seller",
       "info_text": "30 days full-fledged plan. Easy Cancellation.",
       "rec": 1,
+      "title": "Monthly",
       "color": "#d3d305"
     },
     "year_1": {
@@ -107,6 +110,7 @@
       ],
       "header_info": "Best Value for Money",
       "info_text": "Annual Subscription. Save Nearly 50%",
+      "title": "Yearly",
       "color": "#ffd939"
     },
     "lifetime": {
