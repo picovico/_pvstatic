@@ -74,9 +74,18 @@
       "videos": "5 Videos",
       "color": "#ffe05f"
     },
-    "month_1": {
+    "day_7": {
       "no_buy": [
         "day_1"
+      ],
+      "header_info": "Weekly Plan",
+      "info_text": "7 days plan. Easy Cancellation.",
+      "color": "#ffd939"
+    },
+    "month_1": {
+      "no_buy": [
+        "day_1",
+        "day_7"
       ],
       "header_info": "All-time Best Seller",
       "info_text": "30 days full-fledged plan. Easy Cancellation.",
