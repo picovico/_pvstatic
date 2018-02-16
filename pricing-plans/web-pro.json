@@ -81,6 +81,9 @@
       "header_info": "Trending Now!",
       "info_text": "7 days package. Greater access, more videos!",
       "color": "#ffd939",
+      "offers" : {
+          "amount_off": 500
+      },
       "videos": "20 Videos"
     },
     "month_1": {
