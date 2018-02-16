@@ -80,7 +80,8 @@
       ],
       "header_info": "Weekly Plan",
       "info_text": "7 days plan. Easy Cancellation.",
-      "color": "#ffd939"
+      "color": "#ffd939",
+      "videos": "25 Videos"
     },
     "month_1": {
       "no_buy": [
@@ -94,6 +95,7 @@
     "year_1": {
       "no_buy": [
         "day_1",
+        "day_7,
         "month_1",
         "month_3"
       ],
@@ -104,6 +106,7 @@
     "lifetime": {
       "no_buy": [
         "day_1",
+        "day_7",
         "month_1",
         "month_3",
         "year_1"
