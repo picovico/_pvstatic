@@ -67,6 +67,11 @@
       "location": "Founder, Tibimedia, Netherlands"
     }
   ],
+  "offers" : {
+          "day_7": {
+            "amount_off": 500
+        }
+  },
   "period_data": {
     "day_1": {
       "header_info": "Most flexible",
@@ -81,9 +86,6 @@
       "header_info": "Trending Now!",
       "info_text": "7 days package. Greater access, more videos!",
       "color": "#ffd939",
-      "offers" : {
-          "amount_off": 500
-      },
       "videos": "20 Videos"
     },
     "month_1": {
