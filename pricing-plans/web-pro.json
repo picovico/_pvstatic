@@ -99,7 +99,7 @@
       "info_text": "30 days full-fledged plan. Easy Cancellation.",
       "rec": 1,
       "title": "Monthly",
-      "color": "#d3d305"
+      "color": "#f5d23f"
     },
     "year_1": {
       "no_buy": [
@@ -111,7 +111,7 @@
       "header_info": "Best Value for Money",
       "info_text": "Annual Subscription. Save Nearly 50%",
       "title": "Yearly",
-      "color": "#e9be0a"
+      "color": "#f7cd1e"
     },
     "lifetime": {
       "no_buy": [
