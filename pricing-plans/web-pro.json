@@ -78,7 +78,7 @@
       "info_text": "24 Hours. All Styles. All features.",
       "videos": "5 Videos",
       "title": "Daily",
-      "color": "#ffe05f"
+      "color": "#ffec64"
     },
     "day_7": {
       "no_buy": [
@@ -86,7 +86,7 @@
       ],
       "header_info": "Trending Now!",
       "info_text": "7 days package. Greater access, more videos!",
-      "color": "#ffd939",
+      "color": "#ffdd4c",
       "title": "Weekly",
       "videos": "20 Videos"
     },
@@ -99,7 +99,7 @@
       "info_text": "30 days full-fledged plan. Easy Cancellation.",
       "rec": 1,
       "title": "Monthly",
-      "color": "#f5d23f"
+      "color": "#D3D30F"
     },
     "year_1": {
       "no_buy": [
@@ -111,7 +111,7 @@
       "header_info": "Best Value for Money",
       "info_text": "Annual Subscription. Save Nearly 50%",
       "title": "Yearly",
-      "color": "#f7cd1e"
+      "color": "#F7CD1E"
     },
     "lifetime": {
       "no_buy": [
