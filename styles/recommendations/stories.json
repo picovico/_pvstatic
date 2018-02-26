@@ -1,100 +1,131 @@
 {
-    "meta": {
-        "fbcover": {
-            "len_sec": [
-                20,
-                90
-            ],
-            "output": "820x312",
-            "size": [
-                {
-                    "name": "FBCover exact",
-                    "value": "820:312"
-                },
-                {
-                    "name": "FBCover scroll",
-                    "value": "820:462"
-                }
-            ]
+  "meta": {
+    "fbcover": {
+      "len_sec": [
+        20,
+        90
+      ],
+      "output": "820x312",
+      "size": [
+        {
+          "name": "FBCover exact",
+          "value": "820:312"
         },
-        "love_thanksfamily": {
-            "help": "Your final video sequence will be as (Dear Someone) ==> (I want to say thanks) ==> (PHOTO 1) ==> (It's been a wild ride) ==> (PHOTO 2) ==> (And you've always stood by my side) ==> (PHOTO 3) ==> (Thank you)"
+        {
+          "name": "FBCover scroll",
+          "value": "820:462"
         }
+      ]
     },
-    "recommendations": [
+    "love_thanksfamily": {
+      "help": "Your final video sequence will be as (Dear Someone) ==> (I want to say thanks) ==> (PHOTO 1) ==> (It's been a wild ride) ==> (PHOTO 2) ==> (And you've always stood by my side) ==> (PHOTO 3) ==> (Thank you)"
+    }
+  },
+  "recommendations": [
+    {
+      "category": "Wedding",
+      "subcategory": [
         {
-            "category": "Wedding",
-            "subcategory": [
-                {
-                    "category": "Invitation",
-                    "styles": [
-                        "vanilla_wedding",
-                        "love_soulmate_ourstory",
-                        "love_valentine_invited",
-                        "bokeh_default_reception"
-                    ]
-                },
-                {
-                    "category": "Album",
-                    "styles": []
-                }
-            ]
+          "category": "Invitation",
+          "styles": [
+            "vanilla_wedding",
+            "love_soulmate_ourstory",
+            "love_valentine_invited",
+            "bokeh_default_reception"
+          ]
         },
         {
-            "category": "Birthday",
-            "subcategory": [
-                {
-                    "category": "Invitation",
-                    "styles": [
-                        "bdayalbum_default_firstbd"
-                    ]
-                },
-                {
-                    "category": "Album",
-                    "styles": []
-                }
-            ]
-        },
-        {
-            "category": "Party",
-            "subcategory": [
-                {
-                    "category": "Invitation",
-                    "styles": [
-                        "party_default_officeparty"
-                    ]
-                },
-                {
-                    "category": "Album",
-                    "styles": []
-                }
-            ]
-        },
-        {
-            "category": "Real Estate",
-            "subcategory": [
-                {
-                    "category": "Property Listing",
-                    "styles": []
-                },
-                {
-                    "category": "Marketing",
-                    "styles": []
-                }
-            ]
-        },
-        {
-            "category": "Marketing",
-            "subcategory": [
-                {
-                    "category": "Product",
-                    "styles": []
-                },
-                {
-                    "category": "Company",
-                    "styles": []
-                }
-            ]
+          "category": "Album",
+          "styles": [
+
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "category": "Birthday",
+      "subcategory": [
+        {
+          "category": "Invitation",
+          "styles": [
+            "bdayalbum_default_firstbd"
+          ]
+        },
+        {
+          "category": "Album",
+          "styles": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Memorial",
+      "subcategory": [
+        {
+          "category": "Funeral",
+          "styles": [
+            "bokeh_dark_funeral"
+          ]
+        },
+        {
+          "category": "Album",
+          "styles": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Party",
+      "subcategory": [
+        {
+          "category": "Invitation",
+          "styles": [
+            "party_default_officeparty"
+          ]
+        },
+        {
+          "category": "Album",
+          "styles": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Real Estate",
+      "subcategory": [
+        {
+          "category": "Property Listing",
+          "styles": [
+
+          ]
+        },
+        {
+          "category": "Marketing",
+          "styles": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Marketing",
+      "subcategory": [
+        {
+          "category": "Product",
+          "styles": [
+
+          ]
+        },
+        {
+          "category": "Company",
+          "styles": [
+
+          ]
+        }
+      ]
+    }
+  ]
 }
