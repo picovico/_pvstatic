@@ -33,12 +33,6 @@
             "love_valentine_invited",
             "bokeh_default_reception"
           ]
-        },
-        {
-          "category": "Album",
-          "styles": [
-
-          ]
         }
       ]
     },
@@ -49,12 +43,6 @@
           "category": "Invitation",
           "styles": [
             "bdayalbum_default_firstbd"
-          ]
-        },
-        {
-          "category": "Album",
-          "styles": [
-
           ]
         }
       ]
@@ -67,12 +55,6 @@
           "styles": [
             "bokeh_dark_funeral"
           ]
-        },
-        {
-          "category": "Album",
-          "styles": [
-
-          ]
         }
       ]
     },
@@ -84,47 +66,19 @@
           "styles": [
             "party_default_officeparty"
           ]
-        },
-        {
-          "category": "Album",
-          "styles": [
-
-          ]
         }
       ]
     },
     {
       "category": "Real Estate",
       "subcategory": [
-        {
-          "category": "Property Listing",
-          "styles": [
 
-          ]
-        },
-        {
-          "category": "Marketing",
-          "styles": [
-
-          ]
-        }
       ]
     },
     {
       "category": "Marketing",
       "subcategory": [
-        {
-          "category": "Product",
-          "styles": [
 
-          ]
-        },
-        {
-          "category": "Company",
-          "styles": [
-
-          ]
-        }
       ]
     }
   ]
