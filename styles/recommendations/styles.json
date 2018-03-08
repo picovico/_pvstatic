@@ -25,10 +25,10 @@
                 {
                     "category": "Birthday",
                     "styles": [
+                        "birthday",
                         "bdayalbum",
                         "newborn_boy",
                         "newborn_girl",
-                        "birthday",
                         "love_birthdaysoulmate",
                         "carol_birthday"
                     ]
