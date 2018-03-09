@@ -1,5 +1,11 @@
 {
   "features": [
+    "Feature one",
+    "Feature two", 
+    "Feature three"
+    "Feature four"
+  ],
+  "extra_features": [
     {
       "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/style.png",
       "title": "All Styles",
@@ -21,32 +27,24 @@
       "text": "Add videos in addition to images and text slides"
     }
   ],
-  "extra_features": [
+  "faq": [
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/music.png",
-      "title": "Multiple Music",
-      "text": "Add up to 5 music per video"
+      "qsn": "All Styles",
+      "ans": "Get access to all available styles"
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/custom-logo.png",
-      "title": "Custom Logo",
-      "text": "Insert your logo to videos"
+      "qsn": "Full HD",
+      "ans": "Create high definition videos - 1080p (max)"
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/cta.png",
-      "title": "CTA Button",
-      "text": "Add your own custom call-to-action"
+      "qsn": "No Watermark",
+      "ans": "Free your video from any watermark"
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/long-video.png",
-      "title": "Longer Videos",
-      "text": "Create long length videos of up to 15mins"
+      "qsn": "Video Clips",
+      "ans": "Add videos in addition to images and text slides"
     }
   ],
-  "banner": "",
-  "text": "",
-  "logo": "https://picovico.github.io/_pvstatic/img/pricing/picovico-pro.png",
-  "info": "",
   "testimonials": [
     {
       "img": "http://picovico.com/wp-content/uploads/image_carousel_thumbs/Anthony-Renetta-Fierro-mss8jgkyd3p8yilqmckehiiuytwl3ya3my6krke79g.png",
@@ -66,64 +64,5 @@
       "name": "Huub bt Pad Bosch",
       "location": "Founder, Tibimedia, Netherlands"
     }
-  ],
-  "offers" : {
-          "day_7": {
-            "amount_off": 500
-        }
-  },
-  "period_data": {
-    "day_1": {
-      "header_info": "Most flexible",
-      "info_text": "24 Hours. All Styles. All features.",
-      "videos": "5 Videos",
-      "title": "Daily",
-      "color": "#ffec64"
-    },
-    "day_7": {
-      "no_buy": [
-        "day_1"
-      ],
-      "header_info": "Trending Now!",
-      "info_text": "7 days package. Greater access, more videos!",
-      "color": "#ffdd4c",
-      "title": "Weekly",
-      "videos": "20 Videos"
-    },
-    "month_1": {
-      "no_buy": [
-        "day_1",
-        "day_7"
-      ],
-      "header_info": "All-time Best Seller",
-      "info_text": "30 days full-fledged plan. Easy Cancellation.",
-      "rec": 1,
-      "title": "Monthly",
-      "color": "#D3D30F"
-    },
-    "year_1": {
-      "no_buy": [
-        "day_1",
-        "day_7",
-        "month_1",
-        "month_3"
-      ],
-      "header_info": "Best Value for Money",
-      "info_text": "Annual Subscription. Save Nearly 50%",
-      "title": "Yearly",
-      "color": "#F7CD1E"
-    },
-    "lifetime": {
-      "no_buy": [
-        "day_1",
-        "day_7",
-        "month_1",
-        "month_3",
-        "year_1"
-      ],
-      "header_info": "New Hot!",
-      "info_text": "One time payment. Never get billed again !",
-      "color": "#d3d305"
-    }
-  }
+  ]
 }
