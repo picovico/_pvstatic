@@ -1,48 +1,60 @@
 {
   "features": [
-    "Feature one",
-    "Feature two", 
-    "Feature three",
-    "Feature four"
+    "Max video quality: 720p",
+    "Max slides per video: 50 (including 7 video clips)", 
+    "Max size per video clip: 200 MB",
+    "Max video clip length: 60 sec",
+    "Max size per photo: 25 MB",
+    "Max size per music: 40 MB",
+    "No. of music per video: 5"
   ],
   "extra_features": [
     {
       "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/style.png",
-      "title": "All Styles",
-      "text": "Get access to all available styles"
+      "title": "Best Value for Money",
+      "text": "Highly inexpensive, best tailored for small to medium sized educational organization."
     },
     {
       "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/fullhs.png",
-      "title": "Full HD",
-      "text": "Create high definition videos - 1080p (max)"
+      "title": "Enough Room for Creativity",
+      "text": "Allows to add text, images, videos and voice-over with basic editing features."
     },
     {
       "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png",
-      "title": "No Watermark",
-      "text": "Free your video from any watermark"
+      "title": "Dedicated Teacher Dashboard",
+      "text": "Allows administrator account to add/remove seats and view the basic video stats."
     },
     {
       "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/video.png",
-      "title": "Video Clips",
-      "text": "Add videos in addition to images and text slides"
+      "title": "Safe and Secure",
+      "text": "The student details and uploaded contents are protected and not jeopardized."
     }
   ],
   "faq": [
     {
-      "qsn": "All Styles",
-      "ans": "Get access to all available styles"
+      "qsn": "What is a seat and how many seats do I require?",
+      "ans": "A seat is a sub-account that is aligned to the one main account. Each seat may be considered as a unique student account that is controlled by an administrator account. The number of seats that you’ll require depends on the number of students under your invigilation."
     },
     {
-      "qsn": "Full HD",
-      "ans": "Create high definition videos - 1080p (max)"
+      "qsn": "How many accounts do I need for my classroom?",
+      "ans": "It depends on the volume of students in your class. We provide access to up to 100 students per account. 
+              If the number is greater than that, drop us an email at support@picovico.com."
     },
     {
-      "qsn": "No Watermark",
-      "ans": "Free your video from any watermark"
+      "qsn": "Can we re-assign the seats?",
+      "ans": "Yes, the administrator account has the authority to re-assign the seats. However, the existing sub-account or seat must first be deleted in order to seize the access and assign it to replacing account."
     },
     {
-      "qsn": "Video Clips",
-      "ans": "Add videos in addition to images and text slides"
+      "qsn": "Can users share the login details?",
+      "ans": "No. Every sub-account (seat) has a unique credential (username and password) for the login. Therefore, each user requires to have unique account or seat for the video-making access."
+    },
+    {
+      "qsn": "Can we use chromebook, laptop, desktop or mobile device to create/edit videos on Picovico?",
+      "ans": "Yes, Picovico is accessible through any of your device connected to the internet."
+    },
+    {
+      "qsn": "Do you have monthly plan for education?",
+      "ans": "As of now, we do not have such monthly plans with educational benefits. However, if you want to try it out for a month, you can start with our normal monthly pro plan."
     }
   ],
   "testimonials": [
