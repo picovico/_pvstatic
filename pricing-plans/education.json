@@ -1,12 +1,12 @@
 {
   "features": [
-    "Max video quality: 720p",
-    "Max slides per video: 50 (including 7 video clips)", 
-    "Max size per video clip: 200 MB",
-    "Max video clip length: 60 sec",
-    "Max size per photo: 25 MB",
-    "Max size per music: 40 MB",
-    "No. of music per video: 5"
+    "720p video quality",
+    "50 slides per video (including 7 video clips)", 
+    "200 MB per video clip size",
+    "60 sec video clip length",
+    "25 MB per photo size: ",
+    "40 MB per music size",
+    "5 music per video"
   ],
   "extra_features": [
     {
