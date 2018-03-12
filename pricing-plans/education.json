@@ -76,24 +76,18 @@
       "location": "Founder, Tibimedia, Netherlands"
     }
   ],
-  "pricing": [
-    {
-      "25": {
-        "color": "#08b1be",
-        "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
-      }
+  "pricing": {
+    "25": {
+      "color": "#08b1be",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
     },
-    {
-      "50": {
-        "color": "#08b1be",
-        "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
-      }
+    "50": {
+      "color": "#08b1be",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
     },
-    {
-      "100": {
-        "color": "#08b1be",
-        "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
-      }
+    "100": {
+      "color": "#08b1be",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
     }
-  ]
+  }
 }
