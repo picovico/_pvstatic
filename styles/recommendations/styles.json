@@ -202,5 +202,10 @@
                 }
             ]
         }
+    ],
+    "allowed":[
+        "web-pro",
+        "web-premium",
+        "standard-free"
     ]
 }
