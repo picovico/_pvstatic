@@ -79,15 +79,15 @@
   "pricing": {
     "25": {
       "color": "#08b1be",
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/100seats.png"
     },
     "50": {
       "color": "#089da3",
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/150seats.png"
     },
     "100": {
       "color": "#078888",
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png"
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/250seats.png"
     }
   }
 }
