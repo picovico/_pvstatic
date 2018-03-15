@@ -10,22 +10,22 @@
   ],
   "extra_features": [
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/style.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/money.png",
       "title": "Best Value for Money",
       "text": "Highly inexpensive, best tailored for small to medium sized educational organization."
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/fullhs.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/idea.png",
       "title": "Enough Room for Creativity",
       "text": "Allows to add text, images, videos and voice-over with basic editing features."
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/watermark-new.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/dashboard.png",
       "title": "Dedicated Teacher Dashboard",
       "text": "Allows administrator account to add/remove seats and view the basic video stats."
     },
     {
-      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/video.png",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/safe.png",
       "title": "Safe and Secure",
       "text": "The student details and uploaded contents are protected and not jeopardized."
     }
