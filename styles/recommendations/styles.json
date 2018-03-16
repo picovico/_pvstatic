@@ -25,53 +25,16 @@
                 {
                     "category": "Birthday",
                     "styles": [
+                        "love_birthday", 
+                        "birthday",
                         "bdayalbum",
                         "newborn_boy",
                         "newborn_girl",
-                        "birthday",
                         "love_birthdaysoulmate",
                         "carol_birthday"
                     ]
                 },
-                {
-                    "category": "Memories",
-                    "styles": [
-                        "newyear",
-                        "imagegrid",
-                        "imagegrid_bricks",
-                        "bokeh_dark",
-                        "bokeh"
-                    ]
-                },
-                {
-                    "category": "Travel",
-                    "styles": [
-                        "lines",
-                        "coolvibes",
-                        "blinds"
-                    ]
-                },
-                {
-                    "category": "Anniversary",
-                    "styles": [
-                        "love_soulmate",
-                        "love_valentine",
-                        "vanilla_frameless",
-                        "bokeh_dark",
-                        "bokeh",
-                        "newyear"
-                    ]
-                },
-                {
-                    "category": "Romance",
-                    "styles": [
-                        "love_soulmate",
-                        "love_valentine",
-                        "focus",
-                        "circle"
-                    ]
-                },
-                {
+                 {
                     "category": "Wedding",
                     "styles": [
                         "wedalbum_default",
@@ -86,12 +49,52 @@
                     ]
                 },
                 {
+                    "category": "Anniversary",
+                    "styles": [
+                        "love_soulmate",
+                        "love_valentine",
+                        "vanilla_frameless",
+                        "bokeh_dark",
+                        "bokeh",
+                        "newyear"
+                    ]
+                },
+                {
                     "category": "Party",
                     "styles": [
                         "party",
                         "coolvibes"
                     ]
+                },
+                        
+                {
+                    "category": "Romance",
+                    "styles": [
+                        "love_soulmate",
+                        "love_valentine",
+                        "focus",
+                        "circle"
+                    ]
+                },
+                 {
+                    "category": "Travel",
+                    "styles": [
+                        "lines",
+                        "coolvibes",
+                        "blinds"
+                    ]
+                },
+                 {
+                    "category": "Memories",
+                    "styles": [
+                        "newyear",
+                        "imagegrid",
+                        "imagegrid_bricks",
+                        "bokeh_dark",
+                        "bokeh"
+                    ]
                 }
+                              
             ]
         },
         {
@@ -200,5 +203,10 @@
                 }
             ]
         }
+    ],
+    "allowed":[
+        "web-pro",
+        "web-premium",
+        "free-general-plan"
     ]
 }

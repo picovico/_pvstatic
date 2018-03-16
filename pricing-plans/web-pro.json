@@ -67,12 +67,18 @@
       "location": "Founder, Tibimedia, Netherlands"
     }
   ],
+  "offers" : {
+          "day_7": {
+            "amount_off": 500
+        }
+  },
   "period_data": {
     "day_1": {
       "header_info": "Most flexible",
       "info_text": "24 Hours. All Styles. All features.",
       "videos": "5 Videos",
-      "color": "#ffe05f"
+      "title": "Daily",
+      "color": "#ffec64"
     },
     "day_7": {
       "no_buy": [
@@ -80,7 +86,8 @@
       ],
       "header_info": "Trending Now!",
       "info_text": "7 days package. Greater access, more videos!",
-      "color": "#ffd939",
+      "color": "#ffdd4c",
+      "title": "Weekly",
       "videos": "20 Videos"
     },
     "month_1": {
@@ -91,7 +98,8 @@
       "header_info": "All-time Best Seller",
       "info_text": "30 days full-fledged plan. Easy Cancellation.",
       "rec": 1,
-      "color": "#ffd939"
+      "title": "Monthly",
+      "color": "#D3D30F"
     },
     "year_1": {
       "no_buy": [
@@ -102,7 +110,8 @@
       ],
       "header_info": "Best Value for Money",
       "info_text": "Annual Subscription. Save Nearly 50%",
-      "color": "#d3d305"
+      "title": "Yearly",
+      "color": "#F7CD1E"
     },
     "lifetime": {
       "no_buy": [
