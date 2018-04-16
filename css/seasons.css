@@ -36,15 +36,18 @@ body{
 .plan-duration.offer{
   /*background:white url('../img/offer_price_bg.png') no-repeat top center !important;*/
 }
+#id-db-education {
+  background-image: url('../img/education-db-header.jpg');
+}
 #curr-plan-edu-prime-25, #curr-plan-test-edu-prime-25 {
-  background-image: url('../img/pricing/icons/100seats.png');
+  content: url('../img/pricing/icons/100seats.png');
 }
 #curr-plan-edu-prime-50, #curr-plan-test-edu-prime-50 {
-  background-image: url('.../img/pricing/icons/150seats.png');
+  content: url('../img/pricing/icons/150seats.png');
 }
 #curr-plan-edu-prime-100, #curr-plan-test-edu-prime-100 {
-  background-image: url('../img/pricing/icons/250seats.png');
+  content: url('../img/pricing/icons/250seats.png');
 }
 #curr-plan-web-pro, #curr-plan-free-general-plan {
-  background-image: url('../img/pricing/icons/pv-plan.png');
+  content: url('../img/pricing/icons/pv-plan.png');
 }
