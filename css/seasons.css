@@ -36,7 +36,7 @@ body{
 .plan-duration.offer{
   /*background:white url('../img/offer_price_bg.png') no-repeat top center !important;*/
 }
-#id-db-edu-prime, #id-db-test-edu-prime {
+#id-db-education {
   background-image: url('../img/education-db-header.jpg');
 }
 #curr-plan-edu-prime-25, #curr-plan-test-edu-prime-25 {
