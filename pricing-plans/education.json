@@ -1,0 +1,93 @@
+{
+  "features": [
+    "720p video quality",
+    "50 slides per video (including 7 video clips)", 
+    "200 MB per video clip size",
+    "60 sec video clip length",
+    "25 MB per photo size",
+    "40 MB per music size",
+    "5 music per video"
+  ],
+  "extra_features": [
+    {
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/money.png",
+      "title": "Best Value for Money",
+      "text": "Highly inexpensive, best tailored for small to medium sized educational organization."
+    },
+    {
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/idea.png",
+      "title": "Enough Room for Creativity",
+      "text": "Allows to add text, images, videos and voice-over with basic editing features."
+    },
+    {
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/dashboard.png",
+      "title": "Dedicated Teacher Dashboard",
+      "text": "Allows administrator account to add/remove seats and view the basic video stats."
+    },
+    {
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/safe.png",
+      "title": "Safe and Secure",
+      "text": "The student details and uploaded contents are protected and not jeopardized."
+    }
+  ],
+  "faq": [
+    {
+      "qsn": "What is a seat and how many seats do I require?",
+      "ans": "A seat is a sub-account that is aligned to the one main account. Each seat may be considered as a unique student account that is controlled by an administrator account. The number of seats that you’ll require depends on the number of students under your invigilation."
+    },
+    {
+      "qsn": "How many accounts do I need for my classroom?",
+      "ans": "It depends on the volume of students in your class. We provide access to up to 100 students per account. If the number is greater than that, drop us an email at support@picovico.com."
+    },
+    {
+      "qsn": "Can we re-assign the seats?",
+      "ans": "Yes, the administrator account has the authority to re-assign the seats. However, the existing sub-account or seat must first be deleted in order to seize the access and assign it to replacing account."
+    },
+    {
+      "qsn": "Can users share the login details?",
+      "ans": "No. Every sub-account (seat) has a unique credential (username and password) for the login. Therefore, each user requires to have unique account or seat for the video-making access."
+    },
+    {
+      "qsn": "Can we use chromebook, laptop, desktop or mobile device to create/edit videos on Picovico?",
+      "ans": "Picovico is a web application which is easily accessible through standard web browsers like google chrome, mozilla firefox, etc. So, you can simply login/signup to your Picovico account through any of your device that is connected to the internet and has these browsers installed."
+    },
+    {
+      "qsn": "Do you have monthly plan for education?",
+      "ans": "As of now, we do not have such monthly plans with educational benefits. However, if you want to try it out for a month, you can start with our normal monthly pro plan."
+    }
+  ],
+  "testimonials": [
+        {
+      "img": "http://picovico.com/wp-content/uploads/image_carousel_thumbs/Knowlton-180x180-mss8p7dg4nkbwq9d2tybq2c9nllc5d31rdpecfvl8k.jpg",
+      "message": "Picovico has been a wonderful online tool in my classroom. I have been able to utilize it in my lessons as a review tool. We recently used picovico to turn our state research project from just a paper and pencil project to something really amazing!",
+      "name": "Jana Knowlton",
+      "location": "Teacher, Gus Birdwell Elementary, Spearman, TX"
+    },
+    {
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/cristina.jpg",
+      "message": "I am always on the lookout for new tools to spice up my lessons with visual content and Picovico has a lot of potential for teaching and learning English. I’ve been using Picovico for two years now , and I find it user-friendly and reliable.",
+      "name": "Cristina",
+      "location": "Founder, Blog De Cristina"
+    },
+    {      
+      "img": "http://picovico.com/wp-content/uploads/image_carousel_thumbs/Huub-bt-Pad-Bosch-Founder-180x180-mss8tgl52ne2h62t866iihoehem600zaog1jkjkf2c.jpg",
+      "message": "TibiMedia is a proud user of the provided API which makes it easier to implement in our platform. Why we choose Picovico? These guys are flexible and easy to contact. Try it!",
+      "name": "Huub bt Pad Bosch",
+      "location": "Founder, Tibimedia, Netherlands"
+    }
+  ],
+  "pricing": {
+    "25": {
+      "color": "#08b1be",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/100seats.png"
+    },
+    "50": {
+      "color": "#089da3",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/150seats.png"
+    },
+    "100": {
+      "color": "#078888",
+      "img": "https://picovico.github.io/_pvstatic/img/pricing/icons/250seats.png"
+    }
+  }
+}

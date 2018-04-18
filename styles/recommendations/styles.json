@@ -25,10 +25,11 @@
                 {
                     "category": "Birthday",
                     "styles": [
+                        "love_birthday", 
+                        "birthday",
                         "bdayalbum",
                         "newborn_boy",
                         "newborn_girl",
-                        "birthday",
                         "love_birthdaysoulmate",
                         "carol_birthday"
                     ]
@@ -202,5 +203,10 @@
                 }
             ]
         }
+    ],
+    "allowed":[
+        "web-pro",
+        "web-premium",
+        "free-general-plan"
     ]
 }

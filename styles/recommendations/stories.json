@@ -68,18 +68,11 @@
           ]
         }
       ]
-    },
-    {
-      "category": "Real Estate",
-      "subcategory": [
-
-      ]
-    },
-    {
-      "category": "Marketing",
-      "subcategory": [
-
-      ]
     }
+  ],
+  "allowed":[
+      "web-pro",
+      "web-premium",
+      "free-general-plan"
   ]
 }
