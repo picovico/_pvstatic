@@ -1,5 +1,13 @@
 {
-  "palette": [],
+  "palette": [{
+    "color": {"r": , "g":, "b": , "a": }
+    "text": {"font": [],
+      "wrap": ,
+      "space": ,
+      "color": {"r": , "g":, "b": , "a": },
+      "highlight": ,
+      "shadow"}
+  }..],
   "color": [],
   "text": {
     "font": [],
