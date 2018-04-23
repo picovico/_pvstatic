@@ -12,12 +12,13 @@
         "grow": ["5", "10"],
         "angle": "20"
       },
-      "font": "Roberto",
-      "size": "30",
-      "spacing": {
-        "line": "20",
-        "char": "30"
-      }
+      "font": {
+        "name": "roboto_mono",
+        "size": "30",
+        "width": {
+          "line": "20",
+          "char": "30"
+        }
     }
   ]
 }
