@@ -1,20 +1,23 @@
 {
-  "palette": [{
-    "color": {"r": , "g":, "b": , "a": }
-    "text": {"font": [],
-      "wrap": ,
-      "space": ,
-      "color": {"r": , "g":, "b": , "a": },
-      "highlight": ,
-      "shadow": }
-  }..],
-  "color": [],
-  "text": {
-    "font": [],
-    "wrap": [],
-    "space": [],
-    "color": [],
-    "highlight": [],
-    "shadow": []
-  }
+  "palette": [
+    {
+      "color": "rgba(1,1,1,1)",
+      "shadow": {
+        "color": "rgba(1,1,1,1)",
+        "angle": "20",
+        "distance": "30"
+      },
+      "highlight": {
+        "color": "rgba(1,1,1,1,)",
+        "grow": ["5", "10"],
+        "angle": "20"
+      },
+      "font": "Roberto",
+      "size": "30",
+      "spacing": {
+        "line": "20",
+        "char": "30"
+      }
+    }
+  ]
 }
