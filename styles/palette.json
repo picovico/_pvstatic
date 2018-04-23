@@ -1,7 +1,7 @@
 [
     {
       "name": "midnight-spring",
-      "styles": {
+      "text": {
         "title": {
           "color": "rgba(100,100,100,1)",
           "shadow": {
@@ -20,66 +20,13 @@
           "font": {
             "name": "roboto_mono", //from fontspec
             "size": "30",
-            "width": {
+            "spacing": {
               "line": "20",
               "char": "30"
             }
           }
         },
-        "text": {
-          "color": "rgba(100,111,166,1)",
-          "shadow": {
-            "color": "rgba(100,111,166,1)",
-            "angle": "20",
-            "distance": "30"
-          },
-          "highlight": {
-            "color": "rgba(100,111,166,1)",
-            "grow": [
-              "5",
-              "10"
-            ],
-            "angle": "20"
-          },
-         "font": {
-            "name": "roboto_mono",
-            "size": "30",
-            "width": {
-              "line": "20",
-              "char": "30"
-            }
-          }
-        },
-        "caption": {
-          "color": "rgba(100,111,166,1)",
-          "shadow": {
-            "color": "rgba(100,111,166,1)",
-            "angle": "20",
-            "distance": "30"
-          },
-          "highlight": {
-            "color": "rgba(100,111,166,1)",
-            "grow": [
-              "5",
-              "10"
-            ],
-            "angle": "20"
-          },
-          "font": {
-            "name": "roboto_mono",
-            "size": "30",
-            "width": {
-              "line": "20",
-              "char": "30"
-            }
-          }
-        }
-      }
-    },
-    {
-      "name": "twilight-saga",
-      "styles": {
-        "title": {
+        "body": {
           "color": "rgba(100,100,100,1)",
           "shadow": {
             "color": "rgba(100,111,166,1)",
@@ -95,124 +42,25 @@
             "angle": "20"
           },
           "font": {
-            "name": "roboto_mono",
+            "name": "roboto_mono", //from fontspec
             "size": "30",
-            "width": {
-              "line": "20",
-              "char": "30"
-            }
-          }
-        },
-        "text": {
-          "color": "rgba(100,111,166,1)",
-          "shadow": {
-            "color": "rgba(100,111,166,1)",
-            "angle": "20",
-            "distance": "30"
-          },
-          "highlight": {
-            "color": "rgba(100,111,166,1)",
-            "grow": [
-              "5",
-              "10"
-            ],
-            "angle": "20"
-          },
-         "font": {
-            "name": "roboto_mono",
-            "size": "30",
-            "width": {
-              "line": "20",
-              "char": "30"
-            }
-          }
-        },
-        "caption": {
-          "color": "rgba(200,111,166,1)",
-          "shadow": {
-            "color": "rgba(100,111,166,1)",
-            "angle": "20",
-            "distance": "30"
-          },
-          "highlight": {
-            "color": "rgba(100,111,166,1)",
-            "grow": [
-              "5",
-              "10"
-            ],
-            "angle": "20"
-          },
-          "font": {
-            "name": "roboto_mono",
-            "size": "30",
-            "width": {
+            "spacing": {
               "line": "20",
               "char": "30"
             }
           }
         }
-      }
-    },
-    {
-      "name": "miniso-marina",
-      "styles": {
-        "title": {
-          "color": "rgba(255,100,100,1)",
-          "shadow": {
-            "color": "rgba(255,111,166,1)",
-            "angle": "20",
-            "distance": "30"
-          },
-          "highlight": {
-            "color": "rgba(255,111,166,1)",
-            "grow": [
-              "5",
-              "10"
-            ],
-            "angle": "20"
-          },
-          "font": {
-            "name": "roboto_mono",
-            "size": "30",
-            "width": {
-              "line": "20",
-              "char": "30"
-            }
-          }
-        },
-        "text": {
-          "color": "rgba(255,111,166,1)",
-          "shadow": {
-            "color": "rgba(255,111,166,1)",
-            "angle": "20",
-            "distance": "30"
-          },
-          "highlight": {
-            "color": "rgba(255,111,166,1)",
-            "grow": [
-              "5",
-              "10"
-            ],
-            "angle": "20"
-          },
-         "font": {
-            "name": "roboto_mono",
-            "size": "30",
-            "width": {
-              "line": "20",
-              "char": "30"
-            }
-          }
-        },
+      },
+      "image": {
         "caption": {
-          "color": "rgba(255,111,166,1)",
+          "color": "rgba(100,100,100,1)",
           "shadow": {
-            "color": "rgba(255,111,166,1)",
+            "color": "rgba(100,111,166,1)",
             "angle": "20",
             "distance": "30"
           },
           "highlight": {
-            "color": "rgba(255,111,166,1)",
+            "color": "rgba(100,111,166,1)",
             "grow": [
               "5",
               "10"
@@ -220,9 +68,9 @@
             "angle": "20"
           },
           "font": {
-            "name": "roboto_mono",
+            "name": "roboto_mono", //from fontspec
             "size": "30",
-            "width": {
+            "spacing": {
               "line": "20",
               "char": "30"
             }

@@ -1,10 +1,16 @@
 {
   "text": {
-    "font": ["",],
-    "wrap": [],
-    "space": [],
-    "color": [],
-    "highlight": [],
-    "shadow": []
+    "spacing": {
+    	"line": [],
+    	"char": []
+	},
+    "highlight": {
+    	"grow": [],
+    	"angle": [],
+   	},
+    "shadow": {
+    	"angle": [],
+    	"distance": [],
+    }
   }
 }

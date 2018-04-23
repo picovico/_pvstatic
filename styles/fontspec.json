@@ -1,16 +1,9 @@
 {
-  "roboto_mono": {
-    "show": "Roboto Mono",
-    "size": [
-
-    ],
-    "width": {
-      "line": [
-
-      ],
-      "char": [
-
-      ]
+  "fonts": [
+    {
+      "roboto_mono": {
+        "display": "Roboto Mono",
+      }
     }
-  }
+  ] 
 }
