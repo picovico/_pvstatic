@@ -6,11 +6,11 @@
 	},
     "highlight": {
     	"grow": [],
-    	"angle": [],
+    	"angle": []
    	},
     "shadow": {
     	"angle": [],
-    	"distance": [],
+    	"distance": []
     }
   }
 }
