@@ -23,18 +23,6 @@
             "category": "Personal",
             "subcategory": [
                 {
-                    "category": "Birthday",
-                    "styles": [
-                        "love_birthday", 
-                        "birthday",
-                        "bdayalbum",
-                        "newborn_boy",
-                        "newborn_girl",
-                        "love_birthdaysoulmate",
-                        "carol_birthday"
-                    ]
-                },
-                 {
                     "category": "Wedding",
                     "styles": [
                         "wedalbum_default",
@@ -93,7 +81,19 @@
                         "bokeh_dark",
                         "bokeh"
                     ]
-                }
+                },
+                {
+                    "category": "Birthday",
+                    "styles": [
+                        "love_birthday", 
+                        "birthday",
+                        "bdayalbum",
+                        "newborn_boy",
+                        "newborn_girl",
+                        "love_birthdaysoulmate",
+                        "carol_birthday"
+                    ]
+                } 
                               
             ]
         },
