@@ -57,7 +57,7 @@
         "shadow": {
           "color": "rgba(100,111,166,1)",
           "angle": "20",
-          "distance": "30"
+          "distance": "10"
         },
         "highlight": {
           "color": "rgba(100,111,166,1)",
@@ -69,7 +69,7 @@
         },
         "font": {
           "name": "roboto_mono",
-          "size": "30",
+          "size": "0.1",
           "spacing": {
             "line": "20",
             "char": "30"
