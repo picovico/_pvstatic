@@ -6,58 +6,8 @@
         "color": "rgba(100,100,100,1)",
         "shadow": {
           "color": "rgba(100,111,166,1)",
-          "angle": "20",
-          "distance": "30"
-        },
-        "highlight": {
-          "color": "rgba(100,111,166,1)",
-          "grow": [
-            "5",
-            "10"
-          ],
-          "angle": "20"
-        },
-        "font": {
-          "name": "roboto_mono",
-          "size": "30",
-          "spacing": {
-            "line": "20",
-            "char": "30"
-          }
-        }
-      },
-      "body": {
-        "color": "rgba(100,100,100,1)",
-        "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "20",
-          "distance": "30"
-        },
-        "highlight": {
-          "color": "rgba(100,111,166,1)",
-          "grow": [
-            "5",
-            "10"
-          ],
-          "angle": "20"
-        },
-        "font": {
-          "name": "roboto_mono",
-          "size": "30",
-          "spacing": {
-            "line": "20",
-            "char": "30"
-          }
-        }
-      }
-    },
-    "image": {
-      "caption": {
-        "color": "rgba(100,100,100,1)",
-        "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "20",
-          "distance": "10"
+          "angle": "0.2",
+          "distance": "0.2"
         },
         "highlight": {
           "color": "rgba(100,111,166,1)",
@@ -71,8 +21,58 @@
           "name": "roboto_mono",
           "size": "0.1",
           "spacing": {
-            "line": "20",
-            "char": "30"
+            "line": "0.1",
+            "char": "0.2"
+          }
+        }
+      },
+      "body": {
+        "color": "rgba(100,100,100,1)",
+        "shadow": {
+          "color": "rgba(100,111,166,1)",
+          "angle": "0.2",
+          "distance": "0.2"
+        },
+        "highlight": {
+          "color": "rgba(100,111,166,1)",
+          "grow": [
+            "5",
+            "10"
+          ],
+          "angle": "20"
+        },
+        "font": {
+          "name": "roboto_mono",
+          "size": "0.1",
+          "spacing": {
+            "line": "0.1",
+            "char": "0.2"
+          }
+        }
+      }
+    },
+    "image": {
+      "caption": {
+        "color": "rgba(100,100,100,1)",
+        "shadow": {
+          "color": "rgba(100,111,166,1)",
+          "angle": "0.2",
+          "distance": "0.2"
+        },
+        "highlight": {
+          "color": "rgba(100,111,166,1)",
+          "grow": [
+            "5",
+            "10"
+          ],
+          "angle": "20"
+        },
+        "font": {
+          "name": "roboto_mono",
+          "size": "0.1",
+          "spacing": {
+            "line": "0.1",
+            "char": "0.2"
           }
         }
       }

@@ -1,9 +1,8 @@
 {
   "fonts": [
     {
-      "roboto_mono": {
-        "display": "Roboto Mono"
-      }
+       "display": "Roboto Mono",
+       "id": "roboto_mono"
     }
   ] 
 }
