@@ -49,5 +49,8 @@ body{
   content: url('../img/pricing/icons/250seats.png');
 }
 #curr-plan-web-pro, #curr-plan-free-general-plan {
-  content: url('../img/pricing/icons/pv-plan.png');
+  content: url('../img/pricing/icons/bd-pro.png');
+}
+#curr-plan-bd-pro {
+  content: url('../img/pricing/icons/bd-pro.png');
 }
