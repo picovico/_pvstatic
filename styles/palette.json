@@ -3,38 +3,84 @@
     "name": "midnight-spring",
     "text": {
       "title": {
-        "color": "rgba(100,100,100,1)",
+        "color": "#FF1133:0.5",
+        "shadowcolor": "#FF1133:0.5",
         "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "0.2",
+          "direction": "0.2",
           "distance": "0.2"
         },
-        "highlight": {
-          "color": "rgba(100,111,166,1)",
-          "grow": [
-            "5",
-            "10"
-          ],
-          "angle": "20"
+        "___selections": {
+          "type": "BOX",
+          "start": 1,
+          "end": 6,
+          "color": "#FF1133:0.5",
+          "scale": {
+            "x": "1.1",
+            "y": "1.1"
+          },
+          "shear": 0.0,
+          "translate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "height": 0.1,
+          "line_alignment": "ABOVE"
         },
-        "font": {
-          "name": "roboto_mono",
-          "size": "0.1",
-          "spacing": {
-            "line": "0.1",
-            "char": "0.2"
+        "___transform": {
+          "position": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.0,
+            "absolute": true
+          },
+          "rotation": {
+            "x": 5.0,
+            "y": 10.0,
+            "z": 5.0,
+            "absolute": true
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "absolute": true
           }
+        },
+        "fontname": "roboto_mon",
+        "height": 0.12,
+        "__alignment": {
+          "horizontal": "CENTER",
+          "vertical": "ABOVE"
+        },
+        "line_spacing": 0.1,
+        "char_spacing": 0.1
         }
       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       "body": {
-        "color": "rgba(100,100,100,1)",
+        "color": "#FF1133:0.5",
+        "shadowcolor": "#FF1133:0.5",
         "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "0.2",
+          "direction": "0.2",
           "distance": "0.2"
         },
         "highlight": {
-          "color": "rgba(100,111,166,1)",
+          "color": "#FF1133:0.5",
           "grow": [
             "5",
             "10"
@@ -53,14 +99,14 @@
     },
     "image": {
       "caption": {
-        "color": "rgba(100,100,100,1)",
+        "color": "#FF1133:0.5",
+        "shadowcolor": "#FF1133:0.5",
         "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "0.2",
+          "direction": "0.2",
           "distance": "0.2"
         },
         "highlight": {
-          "color": "rgba(100,111,166,1)",
+          "color": "#FF1133:0.5",
           "grow": [
             "5",
             "10"
