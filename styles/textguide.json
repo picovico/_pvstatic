@@ -1,0 +1,60 @@
+[
+    {
+        "name": "midnight-spring",
+        "text": {
+            "title": {
+                "color": "#FF1133:0.5",
+                "shadowcolor": "#FF1133:0.5",
+                "shadow": {
+                    "direction": "0.2",
+                    "distance": "0.2"
+                },
+                "___selections": {
+                    "type": "BOX",
+                    "start": 1,
+                    "end": 6,
+                    "color": "#FF1133:0.5",
+                    "scale": {
+                        "x": "1.1",
+                        "y": "1.1"
+                    },
+                    "shear": 0.0,
+                    "translate": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "height": 0.1,
+                    "line_alignment": "ABOVE"
+                },
+                "___transform": {
+                    "position": {
+                        "x": 0.5,
+                        "y": 0.5,
+                        "z": 0.0,
+                        "absolute": true
+                    },
+                    "rotation": {
+                        "x": 5.0,
+                        "y": 10.0,
+                        "z": 5.0,
+                        "absolute": true
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0,
+                        "absolute": true
+                    }
+                },
+                "fontname": "roboto_mono",
+                "height": 0.12,
+                "__alignment": {
+                    "horizontal": "CENTER",
+                    "vertical": "ABOVE"
+                },
+                "line_spacing": 0.1,
+                "char_spacing": 0.1
+            }
+        }
+    }
+]
