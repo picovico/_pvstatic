@@ -18,7 +18,7 @@
           "angle": "20"
         },
         "font": {
-          "name": "greatvibes_regular",
+          "name": "josefinsans_regular",
           "size": "0.1",
           "spacing": {
             "line": "0.1",
@@ -42,8 +42,8 @@
           "angle": "20"
         },
         "font": {
-          "name": "greatvibes_regular",
-          "size": "0.1",
+          "name": "josefinsans_regular",
+          "size": "0.05",
           "spacing": {
             "line": "0.1",
             "char": "0.2"
@@ -68,7 +68,7 @@
           "angle": "20"
         },
         "font": {
-          "name": "greatvibes_regular",
+          "name": "josefinsans_regular",
           "size": "0.1",
           "spacing": {
             "line": "0.1",
