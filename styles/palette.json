@@ -4,78 +4,42 @@
     "name": "midnight-spring",
     "text": {
       "title": {
-        "color": "rgba(100,100,100,1)",
+        "color": "#8e4747",
+        "shadowcolor": "#FFFFFF",
         "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "0.2",
+          "direction": "0.2",
           "distance": "0.2"
         },
-        "highlight": {
-          "color": "rgba(100,111,166,1)",
-          "grow": [
-            "5",
-            "10"
-          ],
-          "angle": "20"
-        },
-        "font": {
-          "name": "josefinsans_regular",
-          "size": "0.1",
-          "spacing": {
-            "line": "0.1",
-            "char": "0.2"
-          }
-        }
+        "fontname": "josefinsans_regular",
+        "height": "0.1",
+        "line_spacing": "0.1",
+        "char_spacing": "0.2"
       },
       "body": {
-        "color": "rgba(100,100,100,1)",
+        "color": "#8e4747",
+        "shadowcolor": "#FFFFFF",
         "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "0.2",
+          "direction": "0.2",
           "distance": "0.2"
         },
-        "highlight": {
-          "color": "rgba(100,111,166,1)",
-          "grow": [
-            "5",
-            "10"
-          ],
-          "angle": "20"
-        },
-        "font": {
-          "name": "josefinsans_regular",
-          "size": "0.05",
-          "spacing": {
-            "line": "0.1",
-            "char": "0.2"
-          }
-        }
+        "fontname": "josefinsans_regular",
+        "height": "0.1",
+        "line_spacing": "0.1",
+        "char_spacing": "0.2"
       }
     },
     "image": {
       "caption": {
-        "color": "rgba(100,100,100,1)",
+        "color": "#8e4747",
+        "shadowcolor": "#FFFFFF",
         "shadow": {
-          "color": "rgba(100,111,166,1)",
-          "angle": "0.2",
+          "direction": "0.2",
           "distance": "0.2"
         },
-        "highlight": {
-          "color": "rgba(100,111,166,1)",
-          "grow": [
-            "5",
-            "10"
-          ],
-          "angle": "20"
-        },
-        "font": {
-          "name": "josefinsans_regular",
-          "size": "0.1",
-          "spacing": {
-            "line": "0.1",
-            "char": "0.2"
-          }
-        }
+        "fontname": "josefinsans_regular",
+        "height": "0.1",
+        "line_spacing": "0.1",
+        "char_spacing": "0.2"
       }
     }
   }
