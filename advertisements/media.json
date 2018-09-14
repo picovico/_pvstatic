@@ -1,0 +1,14 @@
+[
+	{
+		"text": "Some advertisement text",
+		"link": "www.facebook.com",
+		"img": "https://images-na.ssl-images-amazon.com/images/G/01/ape/static/fallback/US_CENTER_PROMO_BACKUP._CB1529701382_.jpg",
+		"active": 1
+	},
+	{
+		"text": "Some advertisement text",
+		"link": "www.facebook.com",
+		"img": "https://images-na.ssl-images-amazon.com/images/G/01/ape/static/fallback/US_CENTER_PROMO_BACKUP._CB1529701382_.jpg",
+		"active": 1
+	}
+]
