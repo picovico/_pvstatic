@@ -1,0 +1,45 @@
+
+[
+  {
+    "text": {
+      "title": {
+        "color": "rgba(226, 93, 128, 0.95)",
+        "shadowcolor": "rgba(20, 20, 20, 0.5)",
+        "shadow": {
+          "direction": "0.1",
+          "distance": "0.1"
+        },
+        "fontname": "josefinsans_regular",
+        "height": "0.12",
+        "line_spacing": "0.1",
+        "char_spacing": "0.1"
+      },
+      "body": {
+        "color": "rgba(226, 93, 128, 0.95)",
+        "shadowcolor": "rgba(20, 20, 20, 0.5)",
+        "shadow": {
+          "direction": "0.1",
+          "distance": "0.1"
+        },
+        "fontname": "josefinsans_regular",
+        "height": "0.09",
+        "line_spacing": "0.1",
+        "char_spacing": "0.1"
+      }
+    },
+    "image": {
+      "caption": {
+        "color": "rgba(226, 93, 128, 0.95)",
+        "shadowcolor": "rgba(20, 20, 20, 0.5)",
+        "shadow": {
+          "direction": "0.1",
+          "distance": "0.1"
+        },
+        "fontname": "josefinsans_regular",
+        "height": "0.05",
+        "line_spacing": "0.1",
+        "char_spacing": "0.1"
+      }
+    }
+  }
+]
