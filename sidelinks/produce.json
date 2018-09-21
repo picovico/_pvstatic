@@ -1,14 +1,18 @@
 [
 	{
 		"text": "Some advertisement text",
-		"link": "http://facebook.com",
-		"img": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2018/EDITORIAL/FALL1/AF_GW/CATCARD/CCDUALGENDER.CB4709318791X._CB485652438_SY260_.jpg",
+		"link": "https://www.amazon.com/gp/product/B01FIS82WQ/ref=as_li_tl?ie=UTF8&tag=pvbirthdayvid-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FIS82WQ&linkId=36b5e3ea69b949723e91eb12a83ee20a",
+		"img": [
+				"https://picovico.github.io/_pvstatic/img/sidelinks/amazon_cards.jpg"
+			],
 		"active": 1
 	},
 	{
 		"text": "Some advertisement text",
-		"link": "http://facebook.com",
-		"img": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2018/EDITORIAL/FALL1/AF_GW/CATCARD/CCDUALGENDER.CB4709318791X._CB485652438_SY260_.jpg",
+		"link": "https://www.amazon.com/gp/product/B01FIS88SY/ref=as_li_tl?ie=UTF8&tag=pvbirthdayvid-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FIS88SY&linkId=25afd40e6702447255c97efb387c7d1d",
+		"img": [
+				"https://picovico.github.io/_pvstatic/img/sidelinks/birthday_cards.jpg"
+			],
 		"active": 1
 	}
 ]

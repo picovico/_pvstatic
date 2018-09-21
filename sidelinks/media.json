@@ -1,14 +1,18 @@
 [
 	{
 		"text": "Some advertisement text",
-		"link": "http://facebook.com",
-		"img": "https://images-na.ssl-images-amazon.com/images/G/01/ape/static/fallback/US_CENTER_PROMO_BACKUP._CB1529701382_.jpg",
+		"link": "https://www.amazon.com/gp/product/B01FIS88SY/ref=as_li_tl?ie=UTF8&tag=pvbirthdayvid-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FIS88SY&linkId=25afd40e6702447255c97efb387c7d1d",
+		"img": [
+				"https://picovico.github.io/_pvstatic/img/sidelinks/amazon_cards_horz.jpg"
+			],
 		"active": 1
 	},
 	{
 		"text": "Some advertisement text",
-		"link": "http://facebook.com",
-		"img": "https://images-na.ssl-images-amazon.com/images/G/01/ape/static/fallback/US_CENTER_PROMO_BACKUP._CB1529701382_.jpg",
+		"link": "https://www.amazon.com/gp/product/B01FIS88SY/ref=as_li_tl?ie=UTF8&tag=pvbirthdayvid-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FIS88SY&linkId=25afd40e6702447255c97efb387c7d1d",
+		"img": [
+				"https://picovico.github.io/_pvstatic/img/sidelinks/birthday_cards_horz.jpg"
+			],
 		"active": 1
 	}
 ]
