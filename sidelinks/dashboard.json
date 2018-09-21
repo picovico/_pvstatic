@@ -2,13 +2,13 @@
 	{
 		"text": "Some advertisement text",
 		"link": "http://facebook.com",
-		"img": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2018/EDITORIAL/FALL1/AF_GW/CATCARD/CCDUALGENDER.CB4709318791X._CB485652438_SY260_.jpg",
+		"img": "https://picovico.github.io/_pvstatic/sidelinks/img/amazon_cards.jpg",
 		"active": 1
 	},
 	{
 		"text": "Some advertisement text",
 		"link": "http://facebook.com",
-		"img": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2018/EDITORIAL/FALL1/AF_GW/CATCARD/CCDUALGENDER.CB4709318791X._CB485652438_SY260_.jpg",
+		"img": "https://picovico.github.io/_pvstatic/sidelinks/img/birthday_cards.jpg",
 		"active": 1
 	}
 ]
